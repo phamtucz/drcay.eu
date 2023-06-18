@@ -107,8 +107,8 @@ body .navbar-nav>li>a {
 }
 
 .home_block_0 .btn {
-	background-color: #3A539B;
-	border-color: #3A539B;
+	background-color: rgba(232, 172, 31, 0.944);
+	border-color: #87c524dd;
 }
 
 .home_block_0 .btn:hover {
@@ -120,7 +120,7 @@ body .navbar-nav>li>a {
 }
 
 .home_block_2 {
-	background-color: #3A539B;
+	background-color: #ce922b;
 	color: white;
 }
 
@@ -178,6 +178,6 @@ body .navbar-nav>li>a {
 
 footer {
 	background-color: #22313F;
-	color: #999;
+	color: #f75008;
 	border: none;
 }
