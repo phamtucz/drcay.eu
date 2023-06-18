@@ -121,11 +121,11 @@ body .navbar-nav>li>a {
 
 .home_block_2 {
 	background-color: #ce922b;
-	color: black;
+	color: #575656;
 }
 
 .home_block_logos {
-	background_color: rgba(244, 24, 83, 0.85);
+	background_color: rgba(227, 56, 41, 0.88);
 }
 
 
@@ -145,7 +145,7 @@ body .navbar-nav>li>a {
 }
 
 .home_block_feedshop {
-	background-color: #fafafa;
+	background-color: rgba(235, 99, 94, 0.96);
 }
 
 .why_stf .column {
