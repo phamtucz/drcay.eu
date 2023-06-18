@@ -54,7 +54,7 @@
 }
 
 .navbar.unscrolled .navbar-nav li > a {
-	color: #e34747;
+	color: #edac16;
 }
 
 body .navbar.navbar-default .sign_in_button {
@@ -177,7 +177,7 @@ body .navbar-nav>li>a {
 
 
 footer {
-	background-color: #f63822f3;
+	background-color: #b30909f3;
 	color: #7deb2ff3;
 	border: none;
 }
