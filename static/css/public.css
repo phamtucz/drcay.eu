@@ -108,7 +108,7 @@ body .navbar-nav>li>a {
 
 .home_block_0 .btn {
 	background-color: rgba(232, 172, 31, 0.944);
-	border-color: #87c524dd;
+	border-color: #ffffffe3;
 }
 
 .home_block_0 .btn:hover {
@@ -125,7 +125,7 @@ body .navbar-nav>li>a {
 }
 
 .home_block_logos {
-	background_color: white;
+	background_color: rgba(245, 63, 22, 0.975);
 }
 
 
