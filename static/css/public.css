@@ -121,11 +121,11 @@ body .navbar-nav>li>a {
 
 .home_block_2 {
 	background-color: #ce922b;
-	color: white;
+	color: rgba(232, 78, 78, 0.93);
 }
 
 .home_block_logos {
-	background_color: rgba(245, 63, 22, 0.975);
+	background_color: rgba(244, 24, 83, 0.85);
 }
 
 
